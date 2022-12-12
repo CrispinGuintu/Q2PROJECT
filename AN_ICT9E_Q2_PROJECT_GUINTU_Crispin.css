@@ -1,0 +1,54 @@
+img{
+	border-style: solid;
+	border-color: whitesmoke;
+	border-width: 6px;
+	border-radius: 40px;
+
+	
+}
+
+h1{
+	font-family: Arial;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 12px;
+	text-shadow: 2px 1px 10px black;
+	text-decoration: underline;
+
+}
+
+h3{
+	font-family: Arial;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 12px;
+	text-shadow: 2px 1px 10px black;
+	text-decoration: underline;
+
+}
+
+
+
+body{
+	margin-left: 50px;
+	margin-top: 25px;
+}
+
+body{
+	background-color: #881C1C;
+	color: black;
+	text-align: center;
+    margin: 100px;
+    font-family: Arial;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table{
+	margin-left: auto;
+  margin-right: auto;
+}
+
+
